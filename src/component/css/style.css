@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+html{
+  font-family: 'Roboto', sans-serif;
+}
+.timer_wrapper{
+  display: flex;
+  font-size: 5rem;
+}
+.text{
+  font-size: 1rem;
+  text-align: center;
+}
+
+  .time {
+    padding: 30px;
+}
+.input_area{
+  width: 20rem;
+  font-size: 19px;
+  border: 1px solid black;
+  padding: 0.5rem;
+  border-radius: 3px 15px;
+}
+.input_wrapper{
+  text-align: center;
+}
+.sbtn, .cbtn{
+  padding: 11px 57px;
+  border: 1px solid #f8f8f8;
+  border-radius: 4px;
+  font-size: 16px;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+}
+.btn{
+  margin-top: 20px;
+}
+.cbtn{
+  margin-top: 20px;
+  background-color: #be3636;
+  border: honeydew;
+  color: #f8f8f8;
+}
