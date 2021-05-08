@@ -1,4 +1,4 @@
-# countdown-github
+# countdown 
 Countdown using React js 
 
 check out   :)  https://rekhakumari12.github.io/countdown-github/
